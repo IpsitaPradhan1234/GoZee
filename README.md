@@ -5,6 +5,15 @@ The transport company is looking to automate its operations for managing its fle
 
 This information will help the company make informed decisions on fleet management, pricing, and profitability analysis.
 
+![GoZee Screenshot](https://res.cloudinary.com/dvlgo9z09/image/upload/v1754686804/Screenshot_2025-08-09_022841_yszhs3.png)
+
+![GoZee Screenshot](https://res.cloudinary.com/dvlgo9z09/image/upload/v1754686804/Screenshot_2025-08-09_022918_oeau5j.png)
+
+![GoZee Screenshot](https://res.cloudinary.com/dvlgo9z09/image/upload/v1754686648/admin_ewnj9o.png)
+![GoZee Screenshot](https://res.cloudinary.com/dvlgo9z09/image/upload/v1754686649/Screenshot_2025-08-09_022421_xxzi8e.png)
+![GoZee Screenshot](https://res.cloudinary.com/dvlgo9z09/image/upload/v1754686649/Screenshot_2025-08-09_022612_rymegq.png)
+
+
 Please visit [Gozee](https://gozee.netlify.app/) for more information.
 
 # Getting Started with Create React App
