@@ -3,7 +3,7 @@ Get on the Go with GoZee, the affordable way to travel!
 
 The transport company is looking to automate its operations for managing its fleet of vehicles. The system will handle vehicle bookings, rental charges based on per-hour and per-kilometer rates, and maintenance expenses, and track vehicle statistics such as revenue earned, fuel consumption, and repair costs. 
 
-This information will help the company make informed decisions on fleet management, pricing, and profitability analysis.
+This information will help the company make informed decisions on fleet management, Car rental finding,pricing, and profitability analysis.
 
 ![GoZee Screenshot](https://res.cloudinary.com/dvlgo9z09/image/upload/v1754686804/Screenshot_2025-08-09_022841_yszhs3.png)
 
